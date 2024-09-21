@@ -44,6 +44,3 @@ Stay updated with **jobs**, **internships**, and **interview preparation materia
 
 Thank you for being a part of this learning journey! 😊 Your contribution to this repo, whether it's a star ⭐, sharing with others, or submitting a pull request, means a lot to us. Let's grow together! 💪
 
----
-
-Let me know if you'd like any more tweaks!
