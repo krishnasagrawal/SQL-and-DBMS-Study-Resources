@@ -3,9 +3,13 @@
 # 📚 SQL and DBMS Study Materials and Resources  
 In this repo, you can find all the notes and study materials related to SQL and DBMS. This is completely **free of cost**! Feel free to share these resources with your friends, family, and colleagues who are eager to learn SQL and Database Management Systems.
 
+
 ✨ **Help us grow** by giving this repo a **star** ⭐ and sharing it with others!
 
 ---
+
+
+![image](https://github.com/user-attachments/assets/2a1302d2-9934-413c-a58c-cbe4b8a3799a)
 
 ## 🚀 Why You Should Star This Repo:
 - 📖 Comprehensive and easy-to-understand notes on **SQL** and **DBMS**.
